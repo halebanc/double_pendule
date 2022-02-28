@@ -4,4 +4,6 @@ Simulation d'un double pendule
 
 Utilisez la commande:
 python3 double_pendule.py help
-pour avoir de l'aide 
+pour avoir de l'aide
+
+La démonstration des équations différentielles se trouve dans le pdf.
